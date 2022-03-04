@@ -13,5 +13,6 @@ Water My Plants backend api will focus on user creation, updation and deletion f
 *HEROKU
 *GIT
 *POSTMAN
+*Postgres
 
 https://plantwatering-backend.herokuapp.com/
